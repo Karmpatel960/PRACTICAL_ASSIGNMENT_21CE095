@@ -2,36 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f14c1d2-dfed-4588-bbee-9c4d95bfad98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRACTICAL_ASSIGNMENT_21CE095.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practical1/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practical10/ComparableSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practical10/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practical11/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practical11/Triplet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practical12/Association.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practical12/Transition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practical13/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practical2/RegularPolygon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practical3/TestAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practical4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practical4/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practical4/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practical5/Checking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practical5/Saving.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practical6/GeometricObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practical6/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practical7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practical7/Nameofpeople.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practical8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practical9/Colorable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practical9/GeometricObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practical9/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
